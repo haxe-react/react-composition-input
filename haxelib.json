@@ -1,0 +1,17 @@
+{
+	"name": "react-composition-input",
+	"license": "MIT",
+	"tags": [
+	  "react"
+	],
+	"classPath": "src",
+	"contributors": [
+	  "kevinresol"
+	],
+	"releasenote": "Initial release",
+	"version": "0.1.0",
+	"url": "https://github.com/haxe-react/react-composition-input",
+	"dependencies": {
+	  "react": ""
+	}
+  }
